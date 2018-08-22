@@ -1,0 +1,1 @@
+<summary:section template="participant"/>
